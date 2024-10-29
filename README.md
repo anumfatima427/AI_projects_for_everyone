@@ -4,7 +4,9 @@ Welcome to AI Projects for Everyone! This repository is dedicated to providing a
 
 # Outline
 1 - [Binary Classification Using Basic Machine Learning Algorithms | KNN, Naive Bayes, Logistic Regression, SVM, Neural Network](https://github.com/anumfatima427/AI_projects_for_everyone/blob/main/1-binary-classfication-using-ml-algorithms.ipynb)
+
 2 - [Diabetic Foot Ulcer Detection Using Pytorch](https://github.com/anumfatima427/AI_projects_for_everyone/blob/main/diabetic-foot-ulcer-detection-using-pytorch.ipynb)
+
 3 - [Grad-Cam Visualization](https://github.com/anumfatima427/AI_projects_for_everyone/blob/main/Grad-Cam_visualization.ipynb)
 
 # YouTube Channel
